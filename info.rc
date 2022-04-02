@@ -1,0 +1,23 @@
+1 VERSIONINFO
+FILEVERSION     1,0,0,0
+PRODUCTVERSION  1,0,0,0
+BEGIN
+  BLOCK "StringFileInfo"
+  BEGIN
+    BLOCK "040904E4"
+    BEGIN
+      VALUE "CompanyName", "Switch Inc."
+      VALUE "FileDescription", "A basic application that says Hello, World! When you run it in the terminal."
+      VALUE "FileVersion", "1.0"
+      VALUE "InternalName", "hello_world"
+      VALUE "LegalCopyright", "Switch Inc."
+      VALUE "OriginalFilename", "hello.exe"
+      VALUE "ProductName", "Hello, World!"
+      VALUE "ProductVersion", "1.0"
+    END
+  END
+  BLOCK "VarFileInfo"
+  BEGIN
+    VALUE "Translation", 0x409, 1252
+  END
+END
